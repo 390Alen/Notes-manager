@@ -1,0 +1,300 @@
+[2025-06-09 15:34:47] [INFO] Logger initialized.
+[2025-06-09 15:34:47] [INFO] NoteManager constructing...
+[2025-06-09 15:34:47] [INFO] NoteManager construction complete.
+[2025-06-09 15:34:57] [INFO] Creating note: alex
+[2025-06-09 15:34:57] [INFO] Successfully created note ID 1
+[2025-06-09 15:35:04] [INFO] Creating note: alex
+[2025-06-09 15:35:04] [INFO] Successfully created note ID 2
+[2025-06-09 15:35:09] [INFO] Attempting to create folder: Suka
+[2025-06-09 15:35:09] [INFO] Successfully created folder ID 3
+[2025-06-09 15:35:22] [INFO] Attempting to delete folder: Suka
+[2025-06-09 15:35:22] [INFO] Moving folder 'Suka' to trash.
+[2025-06-09 15:35:32] [INFO] Creating note: alex
+[2025-06-09 15:35:32] [INFO] Successfully created note ID 3
+[2025-06-09 15:35:49] [INFO] Creating note: pizda
+[2025-06-09 15:35:49] [INFO] Successfully created note ID 4
+[2025-06-09 15:46:04] [INFO] Logger initialized.
+[2025-06-09 15:46:04] [INFO] NoteManager constructing...
+[2025-06-09 15:46:04] [INFO] NoteManager construction complete.
+[2025-06-09 15:51:53] [INFO] Logger initialized.
+[2025-06-09 15:51:53] [INFO] NoteManager constructing...
+[2025-06-09 15:51:53] [INFO] NoteManager construction complete.
+[2025-06-09 15:52:04] [INFO] Creating note: Alex
+[2025-06-09 15:52:04] [INFO] Note saved to file: /1.txt
+[2025-06-09 15:52:04] [INFO] Successfully created note ID 1
+[2025-06-09 15:52:16] [INFO] Editing note ID: 1
+[2025-06-09 15:52:16] [INFO] Note saved to file: /1.txt
+[2025-06-09 15:52:16] [INFO] Note edited successfully.
+[2025-06-09 15:57:48] [INFO] Logger initialized.
+[2025-06-09 15:57:48] [INFO] NoteManager constructing...
+[2025-06-09 15:57:48] [INFO] NoteManager construction complete.
+[2025-06-09 15:57:55] [INFO] Creating note: Alex
+[2025-06-09 15:57:55] [INFO] Note saved to file: /1.txt
+[2025-06-09 15:57:55] [INFO] Successfully created note ID 1
+[2025-06-09 15:58:06] [INFO] Editing note ID: 1
+[2025-06-09 15:58:06] [INFO] Note saved to file: /1.txt
+[2025-06-09 15:58:06] [INFO] Note edited successfully.
+[2025-06-09 15:59:56] [INFO] Logger initialized.
+[2025-06-09 15:59:56] [INFO] NoteManager constructing...
+[2025-06-09 15:59:56] [INFO] NoteManager construction complete.
+[2025-06-09 16:00:26] [INFO] Attempting to create folder: Pizdex
+[2025-06-09 16:00:26] [INFO] Successfully created folder ID 3
+[2025-06-09 16:10:03] [INFO] Logger initialized.
+[2025-06-09 16:10:03] [INFO] NoteManager constructing...
+[2025-06-09 16:10:03] [INFO] NoteManager construction complete.
+[2025-06-09 16:21:14] [INFO] Logger initialized.
+[2025-06-09 16:21:14] [INFO] NoteManager constructing...
+[2025-06-09 16:21:14] [INFO] NoteManager construction complete.
+[2025-06-09 16:29:46] [INFO] Logger initialized.
+[2025-06-09 16:29:46] [INFO] NoteManager constructing...
+[2025-06-09 16:29:46] [INFO] NoteManager construction complete.
+[2025-06-09 16:51:46] [INFO] Logger initialized.
+[2025-06-09 16:51:46] [INFO] NoteManager constructing...
+[2025-06-09 16:51:46] [INFO] NoteManager construction complete.
+[2025-06-09 17:15:46] [INFO] Logger initialized.
+[2025-06-09 17:15:46] [INFO] NoteManager constructing...
+[2025-06-09 17:15:46] [INFO] NoteManager construction complete.
+[2025-06-09 17:16:45] [INFO] Attempting to create folder: Pizda
+[2025-06-09 17:16:45] [INFO] Successfully created folder ID 3
+[2025-06-09 17:16:55] [INFO] Creating note: Alex
+[2025-06-09 17:16:55] [INFO] Note saved to file: /1.txt
+[2025-06-09 17:16:55] [INFO] Successfully created note ID 1
+[2025-06-09 17:17:02] [INFO] Editing note ID: 1
+[2025-06-09 17:17:02] [INFO] Note saved to file: /1.txt
+[2025-06-09 17:17:02] [INFO] Note edited successfully.
+[2025-06-09 17:17:09] [INFO] Editing note ID: 1
+[2025-06-09 17:17:09] [INFO] Note saved to file: /1.txt
+[2025-06-09 17:17:09] [INFO] Note edited successfully.
+[2025-06-09 17:26:22] [INFO] Creating note: alen
+[2025-06-09 17:26:22] [INFO] Note saved to file: /2.txt
+[2025-06-09 17:26:22] [INFO] Successfully created note ID 2
+[2025-06-09 17:26:40] [INFO] Creating note: Amir
+[2025-06-09 17:26:40] [INFO] Note saved to file: /3.txt
+[2025-06-09 17:26:40] [INFO] Successfully created note ID 3
+[2025-06-09 17:26:48] [INFO] Editing note ID: 2
+[2025-06-09 17:26:48] [INFO] Note saved to file: /2.txt
+[2025-06-09 17:26:48] [INFO] Note edited successfully.
+[2025-06-09 18:55:18] [INFO] Logger initialized.
+[2025-06-09 18:55:18] [INFO] NoteManager constructing...
+[2025-06-09 18:55:18] [INFO] NoteManager construction complete.
+[2025-06-09 19:18:30] [INFO] Logger initialized.
+[2025-06-09 19:18:30] [INFO] NoteManager constructing...
+[2025-06-09 19:18:30] [INFO] NoteManager construction complete.
+[2025-06-09 19:19:06] [INFO] Attempting to create folder: Amir
+[2025-06-09 19:19:06] [INFO] Successfully created folder ID 3
+[2025-06-09 23:29:28] [INFO] Logger initialized.
+[2025-06-09 23:29:28] [INFO] NoteManager constructing...
+[2025-06-09 23:29:28] [INFO] NoteManager construction complete.
+[2025-06-09 23:29:47] [INFO] Creating note: Amir
+[2025-06-09 23:29:47] [INFO] Note saved to file: /1.txt
+[2025-06-09 23:29:47] [INFO] Successfully created note ID 1
+[2025-06-09 23:30:17] [INFO] Creating note: Alex
+[2025-06-09 23:30:17] [INFO] Note saved to file: /2.txt
+[2025-06-09 23:30:17] [INFO] Successfully created note ID 2
+[2025-06-09 23:30:23] [INFO] Logger initialized.
+[2025-06-09 23:30:23] [INFO] NoteManager constructing...
+[2025-06-09 23:30:23] [INFO] NoteManager construction complete.
+[2025-06-09 23:31:44] [INFO] Creating note: Alex
+[2025-06-09 23:31:44] [INFO] Note saved to file: /1.txt
+[2025-06-09 23:31:44] [INFO] Successfully created note ID 1
+[2025-06-09 23:35:05] [INFO] Editing note ID: 1
+[2025-06-09 23:35:05] [INFO] Note saved to file: /1.txt
+[2025-06-09 23:35:05] [INFO] Note edited successfully.
+[2025-06-09 23:36:48] [INFO] Logger initialized.
+[2025-06-09 23:36:48] [INFO] NoteManager constructing...
+[2025-06-09 23:36:48] [INFO] NoteManager construction complete.
+[2025-06-09 23:37:13] [INFO] Creating note: Alex
+[2025-06-09 23:37:13] [INFO] Note saved to file: /1.txt
+[2025-06-09 23:37:13] [INFO] Successfully created note ID 1
+[2025-06-10 22:53:27] [INFO] Logger initialized.
+[2025-06-10 22:53:27] [INFO] NoteManager constructing...
+[2025-06-10 22:53:27] [INFO] NoteManager construction complete.
+[2025-06-10 22:54:16] [INFO] Creating note: Фьшк
+[2025-06-10 22:54:16] [INFO] Note saved to file: /1.txt
+[2025-06-10 22:54:16] [INFO] Successfully created note ID 1
+[2025-06-10 22:55:06] [INFO] Editing note ID: 1
+[2025-06-10 22:55:06] [INFO] Note saved to file: /1.txt
+[2025-06-10 22:55:06] [INFO] Note edited successfully.
+[2025-06-10 22:55:25] [INFO] Attempting to delete note ID: 1
+[2025-06-10 22:55:25] [INFO] Moving note ID 1 to trash.
+[2025-06-10 22:55:25] [INFO] Attempting to move note ID 1 to folder ID 2
+[2025-06-10 22:55:25] [INFO] Successfully moved note.
+[2025-06-10 22:55:25] [INFO] Note saved to file: /1.txt
+[2025-06-10 22:55:35] [INFO] Attempting to create folder: Амир
+[2025-06-10 22:55:35] [INFO] Successfully created folder ID 3
+[2025-06-10 22:55:40] [INFO] Creating note: Уч
+[2025-06-10 22:55:40] [INFO] Note saved to file: /2.txt
+[2025-06-10 22:55:40] [INFO] Successfully created note ID 2
+[2025-06-10 22:55:55] [INFO] Editing note ID: 2
+[2025-06-10 22:55:55] [INFO] Note saved to file: /2.txt
+[2025-06-10 22:55:55] [INFO] Note edited successfully.
+[2025-06-10 22:56:21] [INFO] Editing note ID: 2
+[2025-06-10 22:56:21] [INFO] Note saved to file: /2.txt
+[2025-06-10 22:56:21] [INFO] Note edited successfully.
+[2025-06-10 22:56:29] [INFO] Editing note ID: 2
+[2025-06-10 22:56:29] [INFO] Note saved to file: /2.txt
+[2025-06-10 22:56:29] [INFO] Note edited successfully.
+[2025-06-10 23:01:02] [INFO] Logger initialized.
+[2025-06-10 23:01:02] [INFO] NoteManager constructing...
+[2025-06-10 23:01:02] [INFO] NoteManager construction complete.
+[2025-06-10 23:01:43] [INFO] Creating note: Фьшк
+[2025-06-10 23:01:43] [INFO] Note saved to file: /1.txt
+[2025-06-10 23:01:43] [INFO] Successfully created note ID 1
+[2025-06-10 23:01:50] [INFO] Editing note ID: 1
+[2025-06-10 23:01:50] [INFO] Note saved to file: /1.txt
+[2025-06-10 23:01:50] [INFO] Note edited successfully.
+[2025-06-10 23:07:34] [INFO] Logger initialized.
+[2025-06-10 23:07:34] [INFO] NoteManager constructing...
+[2025-06-10 23:07:34] [INFO] NoteManager construction complete.
+[2025-06-10 23:11:38] [INFO] Logger initialized.
+[2025-06-10 23:11:38] [INFO] NoteManager constructing...
+[2025-06-10 23:11:38] [INFO] NoteManager construction complete.
+[2025-06-10 23:13:01] [INFO] Logger initialized.
+[2025-06-10 23:13:01] [INFO] NoteManager constructing...
+[2025-06-10 23:13:01] [INFO] NoteManager construction complete.
+[2025-06-10 23:17:47] [INFO] Logger initialized.
+[2025-06-10 23:17:47] [INFO] NoteManager constructing...
+[2025-06-10 23:17:47] [INFO] NoteManager construction complete.
+[2025-06-11 12:07:02] [INFO] Logger initialized.
+[2025-06-11 12:07:02] [INFO] NoteManager constructing...
+[2025-06-11 12:07:02] [INFO] Initializing from file system...
+[2025-06-11 12:07:02] [INFO] File system initialization complete.
+[2025-06-11 12:07:02] [INFO] NoteManager construction complete.
+[2025-06-11 12:08:05] [INFO] Applying Light Theme.
+[2025-06-11 12:08:07] [INFO] Applying Dark Theme.
+[2025-06-11 12:08:08] [INFO] Applying Light Theme.
+[2025-06-11 12:08:10] [INFO] Applying Sepia Theme.
+[2025-06-11 12:08:11] [INFO] Applying Yellow Theme.
+[2025-06-11 12:08:16] [INFO] Applying Dark Theme.
+[2025-06-11 12:09:12] [INFO] Creating note: Alex
+[2025-06-11 12:09:12] [INFO] Note saved to file: /2.txt
+[2025-06-11 12:09:12] [INFO] Successfully created note ID 2
+[2025-06-11 12:09:56] [INFO] Attempting to create folder: Amir
+[2025-06-11 12:09:56] [INFO] Successfully created folder ID 3
+[2025-06-11 12:10:01] [INFO] Creating note: Alex
+[2025-06-11 12:10:01] [INFO] Note saved to file: /3.txt
+[2025-06-11 12:10:01] [INFO] Successfully created note ID 3
+[2025-06-11 12:10:14] [INFO] Editing note ID: 2
+[2025-06-11 12:10:14] [INFO] Note saved to file: /2.txt
+[2025-06-11 12:10:14] [INFO] Note edited successfully.
+[2025-06-11 12:10:27] [INFO] Editing note ID: 3
+[2025-06-11 12:10:27] [INFO] Note saved to file: /3.txt
+[2025-06-11 12:10:27] [INFO] Note edited successfully.
+[2025-06-11 12:12:37] [INFO] Logger initialized.
+[2025-06-11 12:12:37] [INFO] NoteManager constructing...
+[2025-06-11 12:12:37] [INFO] Root folder created.
+[2025-06-11 12:12:37] [INFO] Trash folder created.
+[2025-06-11 12:12:37] [INFO] Current folder set to root.
+[2025-06-11 12:12:37] [INFO] Initializing from file system...
+[2025-06-11 12:12:37] [INFO] Base path created: data
+[2025-06-11 12:12:37] [INFO] Trash path created: trash
+[2025-06-11 12:12:37] [INFO] Loading notes from directory: data
+[2025-06-11 12:12:37] [INFO] Found file: data\example_data.txt
+[2025-06-11 12:12:37] [INFO] Loaded note: 
+[2025-06-11 12:12:37] [INFO] Loading notes from directory: trash
+[2025-06-11 12:12:37] [INFO] File system initialization complete.
+[2025-06-11 12:12:37] [INFO] NoteManager construction complete.
+[2025-06-11 12:13:15] [INFO] Applying Light Theme.
+[2025-06-11 12:13:20] [INFO] Creating note: Alex
+[2025-06-11 12:13:20] [INFO] Note saved to file: /2.txt
+[2025-06-11 12:13:20] [INFO] Successfully created note ID 2
+[2025-06-11 12:17:01] [INFO] Logger initialized.
+[2025-06-11 12:17:01] [INFO] NoteManager constructing...
+[2025-06-11 12:17:01] [INFO] Root folder created.
+[2025-06-11 12:17:01] [INFO] Trash folder created.
+[2025-06-11 12:17:01] [INFO] Current folder set to root.
+[2025-06-11 12:17:01] [INFO] Initializing from file system...
+[2025-06-11 12:17:01] [INFO] Base path created: data
+[2025-06-11 12:17:01] [INFO] Trash path created: trash
+[2025-06-11 12:17:01] [INFO] Loading notes from directory: data
+[2025-06-11 12:17:01] [INFO] Found file: data\example_data.txt
+[2025-06-11 12:17:01] [INFO] Loaded note: 
+[2025-06-11 12:17:01] [INFO] Loading notes from directory: trash
+[2025-06-11 12:17:01] [INFO] File system initialization complete.
+[2025-06-11 12:17:01] [INFO] NoteManager construction complete.
+[2025-06-11 12:17:13] [INFO] Creating note: Alex
+[2025-06-11 12:17:13] [INFO] Note saved to file: /2.txt
+[2025-06-11 12:17:13] [INFO] Successfully created note ID 2
+[2025-06-11 12:22:01] [INFO] Logger initialized.
+[2025-06-11 12:22:01] [INFO] NoteManager constructing...
+[2025-06-11 12:22:01] [INFO] Root folder created.
+[2025-06-11 12:22:01] [INFO] Trash folder created.
+[2025-06-11 12:22:01] [INFO] Current folder set to root.
+[2025-06-11 12:22:01] [INFO] Initializing from file system...
+[2025-06-11 12:22:01] [INFO] Base path created: data
+[2025-06-11 12:22:01] [INFO] Trash path created: trash
+[2025-06-11 12:22:01] [INFO] Loading notes from directory: data
+[2025-06-11 12:22:01] [INFO] Found file: data\example_data.txt
+[2025-06-11 12:22:01] [INFO] Loaded note: 
+[2025-06-11 12:22:01] [INFO] Loading notes from directory: trash
+[2025-06-11 12:22:01] [INFO] File system initialization complete.
+[2025-06-11 12:22:01] [INFO] NoteManager construction complete.
+[2025-06-11 12:24:15] [INFO] Logger initialized.
+[2025-06-11 12:24:15] [INFO] NoteManager constructing...
+[2025-06-11 12:24:15] [INFO] Root folder created.
+[2025-06-11 12:24:15] [INFO] Trash folder created.
+[2025-06-11 12:24:15] [INFO] Current folder set to root.
+[2025-06-11 12:24:15] [INFO] Initializing from file system...
+[2025-06-11 12:24:15] [INFO] Base path created: data
+[2025-06-11 12:24:15] [INFO] Trash path created: trash
+[2025-06-11 12:24:15] [INFO] Loading notes from directory: data
+[2025-06-11 12:24:15] [INFO] Found file: data\example_data.txt
+[2025-06-11 12:24:15] [INFO] Loaded note: 
+[2025-06-11 12:24:15] [INFO] Loading notes from directory: trash
+[2025-06-11 12:24:15] [INFO] File system initialization complete.
+[2025-06-11 12:24:15] [INFO] NoteManager construction complete.
+[2025-06-11 12:24:35] [INFO] Applying Dark Theme.
+[2025-06-11 12:24:39] [INFO] Attempting to create folder: Alex
+[2025-06-11 12:24:39] [INFO] Successfully created folder ID 3
+[2025-06-11 12:24:43] [INFO] Creating note: Amir
+[2025-06-11 12:24:43] [INFO] Note saved to file: /2.txt
+[2025-06-11 12:24:43] [INFO] Successfully created note ID 2
+[2025-06-11 12:24:52] [INFO] Editing note ID: 2
+[2025-06-11 12:24:52] [INFO] Note saved to file: /2.txt
+[2025-06-11 12:24:52] [INFO] Note edited successfully.
+[2025-06-11 12:25:27] [INFO] Editing note ID: 2
+[2025-06-11 12:25:27] [INFO] Note saved to file: /2.txt
+[2025-06-11 12:25:27] [INFO] Note edited successfully.
+[2025-06-11 12:25:38] [INFO] Attempting to create folder: Masha
+[2025-06-11 12:25:38] [INFO] Successfully created folder ID 4
+[2025-06-11 12:25:45] [INFO] Creating note: Pasha
+[2025-06-11 12:25:45] [INFO] Note saved to file: /3.txt
+[2025-06-11 12:25:45] [INFO] Successfully created note ID 3
+[2025-06-11 12:25:49] [INFO] Editing note ID: 3
+[2025-06-11 12:25:49] [INFO] Note saved to file: /3.txt
+[2025-06-11 12:25:49] [INFO] Note edited successfully.
+[2025-06-11 12:44:21] [INFO] Logger initialized.
+[2025-06-11 12:44:21] [INFO] NoteManager constructing...
+[2025-06-11 12:44:21] [INFO] Root folder created.
+[2025-06-11 12:44:21] [INFO] Trash folder created.
+[2025-06-11 12:44:21] [INFO] Current folder set to root.
+[2025-06-11 12:44:21] [INFO] Initializing from file system...
+[2025-06-11 12:44:21] [INFO] Base path created: data
+[2025-06-11 12:44:21] [INFO] Trash path created: trash
+[2025-06-11 12:44:21] [INFO] Loading notes from directory: data
+[2025-06-11 12:44:21] [INFO] Found file: data\example_data.txt
+[2025-06-11 12:44:21] [INFO] Loaded note: 
+[2025-06-11 12:44:21] [INFO] Loading notes from directory: trash
+[2025-06-11 12:44:21] [INFO] File system initialization complete.
+[2025-06-11 12:44:21] [INFO] NoteManager construction complete.
+[2025-06-11 12:44:25] [INFO] Applying Sepia Theme.
+[2025-06-11 12:44:31] [WARNING] Emptying trash.
+[2025-06-11 12:44:31] [INFO] Trash has been emptied.
+[2025-06-11 12:44:35] [INFO] Applying Dark Theme.
+[2025-06-11 12:56:01] [INFO] Logger initialized.
+[2025-06-11 12:56:01] [INFO] NoteManager constructing...
+[2025-06-11 12:56:01] [INFO] Root folder created.
+[2025-06-11 12:56:01] [INFO] Trash folder created.
+[2025-06-11 12:56:01] [INFO] Current folder set to root.
+[2025-06-11 12:56:01] [INFO] Initializing from file system...
+[2025-06-11 12:56:01] [INFO] Base path created: data
+[2025-06-11 12:56:01] [INFO] Trash path created: trash
+[2025-06-11 12:56:01] [INFO] Loading notes from directory: data
+[2025-06-11 12:56:01] [INFO] Found file: data\example_data.txt
+[2025-06-11 12:56:01] [INFO] Loaded note: 
+[2025-06-11 12:56:01] [INFO] Loading notes from directory: trash
+[2025-06-11 12:56:01] [INFO] File system initialization complete.
+[2025-06-11 12:56:01] [INFO] NoteManager construction complete.
+[2025-06-11 12:56:06] [INFO] Applying Dark Theme.
+[2025-06-11 12:56:25] [INFO] Applying Dark Theme.
+[2025-06-11 12:56:42] [INFO] Applying Dark Theme.
